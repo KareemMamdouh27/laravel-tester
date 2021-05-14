@@ -201,3 +201,319 @@ Open repository: /var/www/tester
 > git show --textconv :.env
 > git ls-files --stage -- /var/www/tester/.env
 > git check-ignore -v -z --stdin
+> git status -z -u
+> git ls-files --stage -- /var/www/tester/.env
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git show --textconv :.env
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Video.php
+> git ls-files --stage -- /var/www/tester/app/Video.php
+> git show --textconv :resources/views/video.blade.php
+> git ls-files --stage -- /var/www/tester/resources/views/video.blade.php
+> git cat-file -s a59bb0b475636fd18151ae1bf116581d170ecc3b
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Models/Video.php
+> git ls-files --stage -- /var/www/tester/app/Models/Video.php
+> git show --textconv :app/Models/Offer.php
+> git ls-files --stage -- /var/www/tester/app/Models/Offer.php
+> git cat-file -s ad5e4b3cea65d85b12d4ee99128f72b59a8368d6
+> git show --textconv :app/Models/Video.php
+> git ls-files --stage -- /var/www/tester/app/Models/Video.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git ls-files --stage -- /var/www/tester/app/Models/Video.php
+> git show --textconv :app/Models/Video.php
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :resources/views/video.blade.php
+> git ls-files --stage -- /var/www/tester/resources/views/video.blade.php
+> git cat-file -s a59bb0b475636fd18151ae1bf116581d170ecc3b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git show --textconv :app/Http/Controllers/vedioEvent.php
+> git ls-files --stage -- /var/www/tester/app/Http/Controllers/vedioEvent.php
+> git cat-file -s 0786c7b78eafc2936cda83c99785c9499dbeab7d
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Providers/EventServiceProvider.php
+> git ls-files --stage -- /var/www/tester/app/Providers/EventServiceProvider.php
+> git cat-file -s 723a290d57d86b15a0da5924b60220a161b2967f
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git show --textconv :app/Providers/EventServiceProvider.php
+> git ls-files --stage -- /var/www/tester/app/Providers/EventServiceProvider.php
+> git cat-file -s 723a290d57d86b15a0da5924b60220a161b2967f
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git show --textconv :app/Providers/EventServiceProvider.php
+> git ls-files --stage -- /var/www/tester/app/Providers/EventServiceProvider.php
+> git cat-file -s 723a290d57d86b15a0da5924b60220a161b2967f
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git show --textconv :app/Listeners/IncreaseCounter.php
+> git ls-files --stage -- /var/www/tester/app/Listeners/IncreaseCounter.php
+> git cat-file -s 52f303c3d2f571992455e71c6792919dd50efa39
+> git show --textconv :app/Events/VideoVewer.php
+> git ls-files --stage -- /var/www/tester/app/Events/VideoVewer.php
+> git cat-file -s 1246ee0346d776b77a51d25988ba1b87aa42863b
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track) refs/heads/master refs/remotes/master
+> git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname)
+> git remote --verbose
+> git config --get commit.template
