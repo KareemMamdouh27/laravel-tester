@@ -1,0 +1,26 @@
+[2021-05-10 22:35:02.315] [sharedprocess] [info] Deleted from disk esbenp.prettier-vscode /root/.vscode/extensions/esbenp.prettier-vscode-6.3.2
+[2021-05-10 22:35:41.857] [sharedprocess] [info] Starting to clean up unused language packs.
+[2021-05-11 00:10:50.621] [sharedprocess] [info] Installing extension: ryannaddy.laravel-artisan
+[2021-05-11 00:10:52.402] [sharedprocess] [info] Downloaded extension: ryannaddy.laravel-artisan /var/www/tester/~/.vscode-root/CachedExtensionVSIXs/ryannaddy.laravel-artisan-0.0.27
+[2021-05-11 00:10:52.540] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.cc3e774f-c460-458a-92e2-cf6c0b2214b2: ryannaddy.laravel-artisan
+[2021-05-11 00:10:52.604] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ryannaddy.laravel-artisan-0.0.27
+[2021-05-11 00:10:52.609] [sharedprocess] [info] Installation completed. ryannaddy.laravel-artisan
+[2021-05-11 00:10:52.680] [sharedprocess] [info] Extensions installed successfully: ryannaddy.laravel-artisan
+[2021-05-11 00:11:09.546] [sharedprocess] [info] Installing extension: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-11 00:11:11.429] [sharedprocess] [info] Downloaded extension: amiralizadeh9480.laravel-extra-intellisense /var/www/tester/~/.vscode-root/CachedExtensionVSIXs/amiralizadeh9480.laravel-extra-intellisense-0.6.1
+[2021-05-11 00:11:11.526] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.75015153-273d-4287-b98f-4c70b2fe477b: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-11 00:11:11.588] [sharedprocess] [info] Renamed to /root/.vscode/extensions/amiralizadeh9480.laravel-extra-intellisense-0.6.1
+[2021-05-11 00:11:11.593] [sharedprocess] [info] Installation completed. amiralizadeh9480.laravel-extra-intellisense
+[2021-05-11 00:11:11.683] [sharedprocess] [info] Extensions installed successfully: amiralizadeh9480.laravel-extra-intellisense
+[2021-05-11 00:11:42.361] [sharedprocess] [info] Installing extension: codingyu.laravel-goto-view
+[2021-05-11 00:11:42.943] [sharedprocess] [info] Downloaded extension: codingyu.laravel-goto-view /var/www/tester/~/.vscode-root/CachedExtensionVSIXs/codingyu.laravel-goto-view-1.3.4
+[2021-05-11 00:11:42.984] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.144037b4-ea7f-4fe1-91a9-2a7a4f8b37db: codingyu.laravel-goto-view
+[2021-05-11 00:11:43.045] [sharedprocess] [info] Renamed to /root/.vscode/extensions/codingyu.laravel-goto-view-1.3.4
+[2021-05-11 00:11:43.047] [sharedprocess] [info] Installation completed. codingyu.laravel-goto-view
+[2021-05-11 00:11:43.105] [sharedprocess] [info] Extensions installed successfully: codingyu.laravel-goto-view
+[2021-05-11 00:11:46.005] [sharedprocess] [info] Installing extension: stef-k.laravel-goto-controller
+[2021-05-11 00:11:47.305] [sharedprocess] [info] Downloaded extension: stef-k.laravel-goto-controller /var/www/tester/~/.vscode-root/CachedExtensionVSIXs/stef-k.laravel-goto-controller-0.0.12
+[2021-05-11 00:11:47.452] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.1966097a-5beb-4471-bf08-0818d8a16153: stef-k.laravel-goto-controller
+[2021-05-11 00:11:47.509] [sharedprocess] [info] Renamed to /root/.vscode/extensions/stef-k.laravel-goto-controller-0.0.12
+[2021-05-11 00:11:47.514] [sharedprocess] [info] Installation completed. stef-k.laravel-goto-controller
+[2021-05-11 00:11:47.573] [sharedprocess] [info] Extensions installed successfully: stef-k.laravel-goto-controller
